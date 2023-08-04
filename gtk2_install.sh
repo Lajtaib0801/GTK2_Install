@@ -2,7 +2,7 @@
 
 #Preps
 sudo apt update
-sudo apt install wget -y
+sudo apt install wget make -y
 mkdir ~/gtk2
 cd ~/gtk2
 
